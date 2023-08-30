@@ -29,7 +29,7 @@ export default function Hero() {
             <Image
               className="object-cover object-center rounded"
               alt="hero"
-              src="/img/Header Image.png"
+              src="/img/Headerguy.png"
               width={500}
               height={600}
             />
