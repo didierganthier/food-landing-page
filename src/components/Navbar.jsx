@@ -12,20 +12,17 @@ export default function Navbar() {
           >
             <>
               <Image src="/img/logo.png" alt="" width={30} height={30} />
-              <span className="ml-3 text-xl">Grover</span>
+              <span className="ml-3 text-xl text-third">P2P Social Lending</span>
             </>
           </Link>
           <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
-            <Link href="/" className="mr-5 hover:text-gray-900">
+            <Link href="/" className="mr-5 hover:text-gray-900 text-third">
               Home
             </Link>
-            <Link href="/" className="mr-5 hover:text-gray-900">
-              Menu
-            </Link>
-            <Link href="/" className="mr-5 hover:text-gray-900">
+            <Link href="/" className="mr-5 hover:text-gray-900 text-third">
               Services
             </Link>
-            <Link href="/" className="mr-5 hover:text-gray-900">
+            <Link href="/" className="mr-5 hover:text-gray-900 text-third">
               Shop
             </Link>
           </nav>
