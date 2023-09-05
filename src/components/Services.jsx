@@ -7,10 +7,12 @@ export default function Services() {
         <div className="container px-5 md:py-24 py-10 mx-auto max-w-7xl">
           <div className="flex flex-col text-center w-full mb-20">
             <span className="text-third text-2xl font-semibold">
-              What we Serve
+              What we Provide
             </span>
             <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-primary">
-              fruit and vegetable delivered to your home
+              A trustworthy peer-to-peer lending platform where you can lend or
+              borrow money from real people, with fair terms and transparent
+              fees.
             </h1>
           </div>
           <div className="flex flex-wrap -m-4 text-center">
@@ -44,7 +46,8 @@ export default function Services() {
                   Build Your Financial Future
                 </h2>
                 <p className="leading-relaxed mt-5 text-lg text-white">
-                  Earn competitive interest rates while helping others achieve their financial goals.
+                  Earn competitive interest rates while helping others achieve
+                  their financial goals.
                 </p>
               </div>
             </div>
@@ -61,7 +64,8 @@ export default function Services() {
                   Transparent and Secure
                 </h2>
                 <p className="leading-relaxed mt-5 text-lg text-white">
-                  Enjoy clear terms and conditions and secure, encrypted transactions.
+                  Enjoy clear terms and conditions and secure, encrypted
+                  transactions.
                 </p>
               </div>
             </div>
