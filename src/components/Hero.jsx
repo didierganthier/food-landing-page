@@ -24,11 +24,11 @@ export default function Hero() {
             </p>
             <div className="flex justify-center">
               <button className="inline-flex text-white bg-primary border-0 py-2 px-6 focus:outline-none hover:bg-third rounded text-lg">
-                Order Now
+                Lend Now
               </button>
               <button className="ml-4 inline-flex text-black bg-transparent border-0 py-2 px-6 focus:outline-none hover:text-white hover:bg-primary justify-center align-middle items-center  rounded text-lg">
                 <BsFillPlayFill className="mr-5 text-[#FDC55E]" />
-                Order Process
+                Borrow Now
               </button>
             </div>
           </div>
