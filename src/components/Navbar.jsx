@@ -12,7 +12,7 @@ export default function Navbar() {
           >
             <>
               <Image src="/img/logo.png" alt="" width={30} height={30} className="rounded-full"/>
-              <span className="ml-3 text-xl text-third">P2P Social Lending</span>
+              <span className="ml-3 text-xl text-third">Lending Hub</span>
             </>
           </Link>
           <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
