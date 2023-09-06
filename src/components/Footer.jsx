@@ -8,7 +8,7 @@ export default function Footer() {
         <div class="container px-5 py-24 mx-auto max-w-7xl">
           <div class="flex flex-wrap md:text-left text-center order-first">
             <div class="lg:w-1/4 md:w-1/2 w-full px-4">
-              <Image src="/img/logo1.png" alt="" width={100} height={50} />
+              <Image src="/img/logo.png" alt="" width={100} height={50} className="rounded-full" />
               <p class="text-gray-500 text-sm mt-5 md:text-left text-center">
                 Fast delivery, which is active all over the world, serves with
                 many transportation vehicles.

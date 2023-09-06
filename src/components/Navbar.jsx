@@ -11,8 +11,8 @@ export default function Navbar() {
             className="flex title-font font-medium justify-center align-middle items-center text-gray-900 mb-4 md:mb-0"
           >
             <>
-              <Image src="/img/logo.png" alt="" width={30} height={30} />
-              <span className="ml-3 text-xl text-third">P2P Social Lending</span>
+              <Image src="/img/logo.png" alt="" width={30} height={30} className="rounded-full"/>
+              <span className="ml-3 text-xl text-third">Lending Hub</span>
             </>
           </Link>
           <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
